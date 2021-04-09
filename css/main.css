@@ -320,7 +320,7 @@ article .readmore:hover{
    Media Queries
    ========================================================================== */
 
-@media only screen and (max-width: 900px) {
+@media only screen and (min-width: 768px) {
     #branding h1{
         display:none;
     }
@@ -359,7 +359,7 @@ article .readmore:hover{
     }
 }
 
-@media only screen and (max-width: 868px){
+@media only screen and (max-width: 768px){
     #main-nav li{
         padding: 3px 3px 0 3px;
         margin: 0 5px;
