@@ -359,7 +359,7 @@ article .readmore:hover{
     }
 }
 
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 500px){
     #main-nav li{
         float:right;
         padding: 3px 3px 0 3px;
